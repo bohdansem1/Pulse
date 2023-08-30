@@ -193,7 +193,8 @@
             transform: translateX(0%);
             &_active{
                 transform: translateX(-100%);
-                margin-left: 20px;
+                margin-left: -20px;
+                margin-top: 10px;
             }
             
         }
